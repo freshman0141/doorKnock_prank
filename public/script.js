@@ -41,7 +41,7 @@ let materials = {
     },
 };
 
-let dimensionSelection = "large";
+let dimensionSelection = "medium";
 let materialSelection = "curtains";
 
 let audioContext;
